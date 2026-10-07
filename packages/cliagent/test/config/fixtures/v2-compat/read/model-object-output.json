@@ -1,0 +1,4 @@
+{
+  "$schema": "https://cliagent.dev/config.json",
+  "model": "anthropic/claude-sonnet"
+}
